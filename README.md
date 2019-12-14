@@ -18,3 +18,4 @@ Folder “**Tool Classification**”: Tools are classified according to the acti
 - [@VictorSCosta]( https://github.com/VictorSCosta )
 - [@gutogirardon]( https://github.com/gutogirardon )
 - [@maiconbernardino]( https://github.com/maiconbernardino )
+- [@GuilhermeLegramante]( https://github.com/GuilhermeLegramante )
